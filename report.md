@@ -18,5 +18,5 @@
 4. The final result is not ideal: in the right lower corner we see a pillar that was stitched incorrectly
 
 ## TODO (if I have time):
-1. RGB :)
+~~1. RGB~~<br>
 2. Retake central image (avoid full covering by other images)
